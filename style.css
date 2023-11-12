@@ -154,9 +154,7 @@ html,body{
     }
 }
 
-
 /* end changes */
-
 
 #nav{
 
@@ -174,6 +172,7 @@ html,body{
 
     font-size: 25px;
     display: flex;
+    font-family: monument;
 
 }
 
@@ -193,6 +192,8 @@ html,body{
 #nav img{
     height: 70px;
 }
+
+
 
 #line{
     width: 90px;
@@ -238,8 +239,8 @@ html,body{
     width: 45vw;
     font-size: 60px;
     font-weight: 700;
-    margin-bottom: 10px;
-    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-top: 90px;
     
 }
 
@@ -331,3 +332,5 @@ html,body{
   a:hover:after{  /* after scroll animations */
     width: 100%;
   }
+
+  
